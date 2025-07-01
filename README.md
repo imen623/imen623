@@ -8,4 +8,4 @@ A recent graduate in Computer Science with a specialization in IT & Multimedia f
 🎯 Currently diving deeper into **UX strategy**, **AI**, and **software engineering**.  
 📚 Always learning, always creating.
 
-> _“Design with empathy. Build with purpose.”_
+![Imen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imen623&show_icons=true&theme=default)
