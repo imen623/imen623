@@ -1,5 +1,5 @@
 ### Hi there! I'm Imen 👋  
-A recent graduate in Computer Science with a specialization in IT & Multimedia from ISAMM, Tunisia.
+A recent graduate in Computer Science with a specialization in IT & Multimedia from [ISAMM] (https://isa2m.rnu.tn/formation/4), Tunisia.
 
 💡 Passionate about **UI/UX design**, **web & mobile development**, and **creative problem-solving**.  
 🛠️ I work with technologies like **React**, **Laravel**, **Java**, and **Spring**.  
