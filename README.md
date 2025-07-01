@@ -10,10 +10,6 @@ A recent graduate in Computer Science with a specialization in IT & Multimedia f
 
 ![Imen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imen623&show_icons=true&theme=radical)
 
-# 💫 About Me:
-A recent graduate in Computer Science with a specialization in IT & Multimedia from ISAMM, Tunisia.<br><br>💡 Passionate about UI/UX design, web & mobile development, and creative problem-solving.<br>🛠️ I work with technologies like React, Laravel, Java, and Spring.<br>🚀 I've built community-driven platform called Co'Lab in collaboration.<br>🎨 Former Design Director @ Robotique ISAMM — led a growing team and managed the club’s visual identity.<br>🎯 Currently diving deeper into UX strategy, AI, and software engineering.<br>📚 Always learning, always creating.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imen-HACHICHA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hachicha.imane@gmail.com) 
 
